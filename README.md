@@ -36,3 +36,7 @@ It's just like any other Laravel project. Basically here is how you use it for y
 *  !!! Enjoy
 
 
+##Demo
+
+![Image description](DemoPic/demo.PNG)
+
