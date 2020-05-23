@@ -22,7 +22,7 @@ Laravel 7 With Vue.js adminpanal with adminlte 3
 
 It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet) 
 
-* Clone the repo ` https://github.com/nirmalbrj7/laravel-vue-starter.git `
+* Clone the repo ` https://github.com/nirmalbrj7/laravel7-vue-starter.git `
 * `cd ` to project folder. 
 * Run ` composer install `
 * Save as the `.env.example` to `.env` and set your database information 
